@@ -13,7 +13,7 @@ A deep learning project implementing the **LeNet-5 Convolutional Neural Network 
 - [⚡ Installation & Usage](#-installation--usage)
 - [🏗 Model Architecture](#-model-architecture)
 - [📊 Training Results](#-training-results)
-- [📷 Predicting Custom Images](#-predicting-custom-images)
+
 
 ---
 
@@ -89,23 +89,6 @@ The model was trained for 10 epochs and achieved the following results:
 Training Accuracy: ~99.55%
 
 Test Accuracy: ~98.13%
-
-📉 Loss & Accuracy Plot:
-(You can add plots here if available)
-
-📷 Predicting Custom Images
-You can classify a handwritten digit image by running:
-
-bash
-Copy
-Edit
-python predict.py --image path/to/image.jpg
-🔹 Example Output:
-yaml
-Copy
-Edit
-Predicted Digit: 5
-Confidence: 63%
 
 
 
