@@ -14,8 +14,6 @@ A deep learning project implementing the **LeNet-5 Convolutional Neural Network 
 - [🏗 Model Architecture](#-model-architecture)
 - [📊 Training Results](#-training-results)
 - [📷 Predicting Custom Images](#-predicting-custom-images)
-- [📜 License](#-license)
-- [🤝 Contributing](#-contributing)
 
 ---
 
@@ -108,34 +106,6 @@ Copy
 Edit
 Predicted Digit: 5
 Confidence: 63%
-📌 Ensure the image is a grayscale digit on a white background. The script preprocesses the image before feeding it into the model.
-
-📜 License
-This project is licensed under the MIT License.
-
-🤝 Contributing
-Contributions are welcome! If you'd like to contribute:
-
-Fork the repository
-
-Create a new branch (git checkout -b feature-branch)
-
-Commit your changes (git commit -m "Add new feature")
-
-Push to the branch (git push origin feature-branch)
-
-Open a Pull Request
-
-🚀 Star the repo if you found it useful! 😊
-
-pgsql
-Copy
-Edit
-
-📌 **Replace** `"yourusername"` with your actual GitHub username before using it.  
-This `README.md` is **well-structured, professional, and ready for GitHub**. 🚀
-
-
 
 
 
